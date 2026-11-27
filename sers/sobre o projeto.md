@@ -97,6 +97,7 @@ O sistema foi projetado considerando conceitos de energias renováveis, utilizan
 ## Integrantes
 
 Lucca Bertolini - RM: 569552
+
 Raphaello Caffettani - RM: 572334
 
 ---
